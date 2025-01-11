@@ -19,5 +19,12 @@ public class Task_10Oct_Nisum {
 
         System.out.println(str2+"."+str3);
 
+//        int enum=9;
+//        System.out.println(enum);
+
+       // char char='A'; System.out.println(char);
+
+
+
     }
 }
